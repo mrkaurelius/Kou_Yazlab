@@ -1,0 +1,15 @@
+[submodule "yaz1lab1_cv"]
+	path = yaz1lab1_cv
+	url = https://github.com/mrkaurelius/yaz1lab1_cv
+[submodule "Yazlab2"]
+	path = Yazlab2
+	url = https://github.com/mrkaurelius/Yazlab2
+[submodule "yaz1lab1_gui"]
+	path = yaz1lab1_gui
+	url = https://github.com/mrkaurelius/yaz1lab1_gui
+[submodule "Yazlab3"]
+	path = Yazlab3
+	url = https://github.com/mrkaurelius/Yazlab3
+[submodule "Yazlab3_Backend"]
+	path = Yazlab3_Backend
+	url = https://github.com/mrkaurelius/Yazlab3_Backend
